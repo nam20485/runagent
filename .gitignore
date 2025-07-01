@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/wasm/RunAgent/.vs/RunAgent
+/wasm/RunAgent/ClientAgentLib/bin/Debug/net9.0
+/wasm/RunAgent/ClientAgentLib/obj
+/wasm/RunAgent/RunAgent/bin/Debug/net9.0
+/wasm/RunAgent/RunAgent/obj
